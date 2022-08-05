@@ -533,17 +533,17 @@ export default class Game extends Phaser.Scene {
         this.wildDanmakuInit(danmaku);
       }
       this.reloadWildDanmaku(globalVar.time / 1200);
-      this.capture = true;
-    }
-    // extra life at 1200, 2400, 4800, 9600, 19200...
-    if (
-      Math.log2(globalVar.time / 1200) ==
-        Math.floor(Math.log2(globalVar.time / 1200)) &&
-      globalVar.time >= 1200
-    ) {
-      this.life++;
-      this.lifeCount.setText("× " + (this.life - 1));
-      this.extend.play();
+        this.capture = true;
+      // extra life at 1200, 2400, 4800, 9600, 19200...
+      if (
+        Math.log2(globalVar.time / 1200) ==
+          Math.floor(Math.log2(globalVar.time / 1200)) &&
+        globalVar.time >= 1200
+      ) {
+        this.life++;
+        this.lifeCount.setText("× " + (this.life - 1));
+        this.extend.play();
+      }
     }
     // shoot
     let pattern;
