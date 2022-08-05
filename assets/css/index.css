@@ -1,0 +1,20 @@
+* {
+    box-sizing: inherit;
+    margin: none;
+}
+
+html {
+    font-size: 100%;
+    line-height: 1rem;
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+canvas {
+    display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -320px;
+    margin-top: -240px;
+}

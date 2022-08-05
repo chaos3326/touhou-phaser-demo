@@ -1,0 +1,6369 @@
+{
+  "danmaku": [
+    {
+      "menuPosition": {
+        "x": 237,
+        "y": 40
+      },
+      "hiScore": "00000000",
+      "name": "Wild mode",
+      "wild": true,
+      "description": [
+        "Spellcard owner: anyone.",
+        "In Wild mode, anything can happen.",
+        "Test your skill against every pattern you can find in this game.",
+        ""
+      ],
+      "danmaku": [
+        {
+          "name": "Rekindled「The Embers of Love」",
+          "danmaku": [
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.000000001,
+              "ASV": 0,
+              "sprite": "red_heart",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 0,
+              "amountV": 0.5,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 170,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 360,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 100,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "invulnerable": true,
+                "lifetime": -1,
+                "bounce": {
+                  "amount": -1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "spawn": [
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "red_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  },
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "blue_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.0025,
+              "ASV": 0,
+              "sprite": "red_heart",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 1,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 290,
+              "positionY": 170,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 100,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "invulnerable": true,
+                "lifetime": -1,
+                "bounce": {
+                  "amount": -1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "spawn": [
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "red_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  },
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "blue_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "countDown": 60,
+              "AS": 0.0025,
+              "ASV": 0,
+              "sprite": "red_heart",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 1,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 350,
+              "positionY": 170,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 100,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "invulnerable": true,
+                "lifetime": -1,
+                "bounce": {
+                  "amount": -1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "spawn": [
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "red_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  },
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "blue_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "sound": 1,
+              "countDown": 260,
+              "AS": 0.0025,
+              "ASV": 0,
+              "sprite": "red_heart",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 1,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 290,
+              "positionY": 170,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": -60,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 100,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "invulnerable": true,
+                "lifetime": -1,
+                "bounce": {
+                  "amount": -1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "spawn": [
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "red_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  },
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "blue_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "countDown": 260,
+              "AS": 0.0025,
+              "ASV": 0,
+              "sprite": "red_heart",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 1,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 350,
+              "positionY": 170,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 60,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 100,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "invulnerable": true,
+                "lifetime": -1,
+                "bounce": {
+                  "amount": -1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "spawn": [
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "red_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  },
+                  {
+                    "countDown": 1,
+                    "interval": 8,
+                    "relative": true,
+                    "sprite": "blue_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 0,
+                    "randomDirection": 360,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 8,
+                    "speedLast": 0,
+                    "randomSpeed": 4,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": 60
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Simple Danmaku for Cornering a Trapped Heart",
+          "danmaku": [
+            {
+              "sound": 1,
+              "countDown": 40,
+              "AS": 0.0000000001,
+              "ASV": 0,
+              "sprite": "red_heart",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 0,
+              "amountV": 0.5,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 240,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 360,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 100,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "invulnerable": true,
+                "lifetime": -1,
+                "bounce": {
+                  "amount": -1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.005,
+              "ASV": 0,
+              "sprite": "red_heart",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 1,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 240,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 100,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "invulnerable": true,
+                "lifetime": -1,
+                "bounce": {
+                  "amount": -1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                }
+              }
+            },
+            {
+              "sound": 0,
+              "volume": 0.02,
+              "countDown": 90,
+              "AS": 0.05,
+              "ASV": 0.00005,
+              "sprite": "green_rice",
+              "style": 0,
+              "radius": 0,
+              "layer": 19,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 1,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 240,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 250,
+              "speedV": 2,
+              "speedLast": -100,
+              "speedLastV": -0.8,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sinister Spirits「Double Black Death Butterfly」",
+          "danmaku": [
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.001,
+              "ASV": 0.00005,
+              "sprite": "red_butterfly",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 45,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 360,
+              "randomMemberDirectionV": 0,
+              "speed": 260,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 280,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 360,
+                  "actions": [
+                    {
+                      "x": 600,
+                      "y": 600,
+                      "countDown": 120,
+                      "duration": 1
+                    },
+                    {
+                      "x": 60,
+                      "y": 60,
+                      "countDown": 121,
+                      "duration": 120
+                    },
+                    {
+                      "x": 20,
+                      "y": 20,
+                      "countDown": 240,
+                      "duration": 120
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 2,
+                  "duration": 120
+                }
+              }
+            },
+            {
+              "countDown": 60,
+              "AS": 0.001,
+              "ASV": 0.00005,
+              "sprite": "blue_butterfly",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 45,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 360,
+              "randomMemberDirectionV": 0,
+              "speed": 260,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 280,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 360,
+                  "actions": [
+                    {
+                      "x": 600,
+                      "y": -600,
+                      "countDown": 120,
+                      "duration": 1
+                    },
+                    {
+                      "x": 60,
+                      "y": -60,
+                      "countDown": 121,
+                      "duration": 120
+                    },
+                    {
+                      "x": 20,
+                      "y": -20,
+                      "countDown": 240,
+                      "duration": 120
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 2,
+                  "duration": 120
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "countDown": 550,
+              "AS": 0.001,
+              "ASV": 0.00005,
+              "sprite": "pink_knife",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 45,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 360,
+              "randomMemberDirectionV": 0,
+              "speed": 260,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 280,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 360,
+                  "actions": [
+                    {
+                      "x": 600,
+                      "y": 600,
+                      "countDown": 120,
+                      "duration": 1
+                    },
+                    {
+                      "x": 60,
+                      "y": 60,
+                      "countDown": 121,
+                      "duration": 120
+                    },
+                    {
+                      "x": 20,
+                      "y": 20,
+                      "countDown": 240,
+                      "duration": 120
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 2,
+                  "duration": 120
+                }
+              }
+            },
+            {
+              "countDown": 550,
+              "AS": 0.001,
+              "ASV": 0.00005,
+              "sprite": "cyan_knife",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 45,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 360,
+              "randomMemberDirectionV": 0,
+              "speed": 260,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 280,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 360,
+                  "actions": [
+                    {
+                      "x": 600,
+                      "y": -600,
+                      "countDown": 120,
+                      "duration": 1
+                    },
+                    {
+                      "x": 60,
+                      "y": -60,
+                      "countDown": 121,
+                      "duration": 120
+                    },
+                    {
+                      "x": 20,
+                      "y": -20,
+                      "countDown": 240,
+                      "duration": 120
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 2,
+                  "duration": 120
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Border Sign「Boundary of Wave and Particle」",
+          "danmaku": [
+            {
+              "countDown": 30,
+              "AS": -0.95,
+              "ASV": 0.02,
+              "sprite": "orange_talisman",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 4,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 13,
+              "directionV": 0,
+              "directionA": 0.2,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 40,
+              "speedV": 1.5,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 0,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "countDown": 30,
+              "AS": 0.05,
+              "ASV": 0.02,
+              "sprite": "red_kunai",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 4,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 9,
+              "directionV": 0,
+              "directionA": 0.2,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 60,
+              "speedV": 2.25,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 0,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "volume": 0.02,
+              "countDown": 30,
+              "AS": 1,
+              "ASV": 0,
+              "sprite": "purple_rice",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 4,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 5,
+              "directionV": 0,
+              "directionA": 0.2,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 80,
+              "speedV": 3,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 0,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Border Sign「Boundary of Wave and Particle」- A",
+          "danmaku": [
+            {
+              "sound": 1,
+              "volume": 0.02,
+              "countDown": 30,
+              "AS": 1,
+              "ASV": 0,
+              "sprite": "purple_kunai",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 2,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0.2,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 80,
+              "speedV": 2,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 0,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "countDown": 30,
+              "AS": 0.15,
+              "ASV": 0.01,
+              "sprite": "blue_kunai",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 2,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 160,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0.2,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 60,
+              "speedV": 1.2,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 0,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "countDown": 30,
+              "AS": 0.15,
+              "ASV": 0.01,
+              "sprite": "orange_kunai",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 2,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 480,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0.2,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 60,
+              "speedV": 1.2,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 0,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Border Sign「Boundary of Wave and Particle」- B",
+          "danmaku": [
+            {
+              "countDown": 30,
+              "AS": 0.05,
+              "ASV": 0.005,
+              "sprite": "red_talisman",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 3,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 10,
+              "directionV": 0,
+              "directionA": 0.2,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 40,
+              "speedV": 1,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 1,
+                  "duration": 0,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "volume": 0.02,
+              "countDown": 30,
+              "AS": 1,
+              "ASV": 0,
+              "sprite": "purple_kunai",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 3,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 10,
+              "directionV": 0,
+              "directionA": 0.2,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 80,
+              "speedV": 2,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 0,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Five Elements Sign「Philosopher's Stone」",
+          "danmaku": [
+            {
+              "sound": 0,
+              "countDown": 185,
+              "AS": 0.002,
+              "ASV": 0.0002,
+              "sprite": "blue_light",
+              "style": 0,
+              "radius": 0,
+              "layer": 5,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 16,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 170,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 9,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 250,
+              "speedV": 0,
+              "speedLast": 50,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.002,
+              "ASV": 0.0002,
+              "sprite": "black_knife",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 16,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 250,
+              "positionY": 80,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 180,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 50,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 190,
+                  "actions": [
+                    {
+                      "x": 30,
+                      "y": 60,
+                      "countDown": 1,
+                      "duration": 180
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.002,
+              "ASV": 0.0002,
+              "sprite": "black_knife",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 16,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 250,
+              "positionY": 80,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 180,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 50,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 190,
+                  "actions": [
+                    {
+                      "x": 30,
+                      "y": -60,
+                      "countDown": 1,
+                      "duration": 180
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 0,
+              "countDown": 372,
+              "AS": 0.002,
+              "ASV": 0.0002,
+              "sprite": "green_bean",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 30,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 390,
+              "positionY": 80,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 180,
+              "randomMemberDirectionV": 0,
+              "speed": 100,
+              "speedV": 0,
+              "speedLast": 50,
+              "speedLastV": 0,
+              "randomSpeed": 30,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 0,
+              "countDown": 435,
+              "AS": 0.002,
+              "ASV": 0.0002,
+              "sprite": "red_light",
+              "style": 0,
+              "radius": 0,
+              "layer": 3,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 20,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 470,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 150,
+              "speedV": 0,
+              "speedLast": 50,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "countDown": 310,
+              "AS": 0.002,
+              "ASV": 0.0002,
+              "sprite": "orange_ball",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 30,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 150,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 180,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 250,
+              "speedV": 0,
+              "speedLast": 50,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 170,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "countDown": 100,
+                      "duration": 60
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 1,
+                  "duration": 120
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Q.E.D.「Ripples of 495 Years」",
+          "danmaku": [
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.003,
+              "ASV": 0.0004,
+              "sprite": "blue_rice",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 80,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 80,
+              "randomPositionX": 200,
+              "randomPositionY": 50,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 180,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 80,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Moriya Shot",
+          "danmaku": [
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.005,
+              "ASV": 0.0005,
+              "sprite": "green_talisman",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 50,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 70,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 1,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.005,
+              "ASV": 0.0005,
+              "sprite": "blue_talisman",
+              "style": 0,
+              "radius": 0,
+              "layer": 2,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 50,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 80,
+              "speedV": 0,
+              "speedLast": 60,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Native God「Froggy Braves the Elements」",
+          "danmaku": [
+            {
+              "countDown": 60,
+              "AS": 0.025,
+              "ASV": 0.004,
+              "sprite": "cyan_rice",
+              "style": 1,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 12,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 90,
+              "randomMemberDirectionV": 0,
+              "speed": 105,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 40,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 120,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 140,
+                      "countDown": 1,
+                      "duration": 40                  
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "countDown": 40,
+                      "duration": 80
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "volume": 0.02,
+              "countDown": 60,
+              "AS": 0.25,
+              "ASV": 0,
+              "sprite": "white_ball",
+              "style": 1,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 180,
+              "amount": 8,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 1,
+              "directionA": 0,
+              "directionSin": true,
+              "directionPhase": 0,
+              "directionInterval": 250,
+              "directionFoot": -30,
+              "directionCap": 30,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 150,
+              "speedV": 0,
+              "speedLast": -100,
+              "speedLastV": -0.02,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 130,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 125,
+                      "countDown": 1,
+                      "duration": 120
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 0,
+              "countDown": 60,
+              "AS": 0.00000000001,
+              "ASV": 0,
+              "sprite": "green_bubble",
+              "style": 1,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 30,
+              "field": 200,
+              "amount": 25,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 300,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": -90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Scourge Sign「Mishaguji-sama」",
+          "danmaku": [
+            {
+              "sound": 1,
+              "countDown": 60,
+              "AS": 0.005,
+              "ASV": 0.0005,
+              "sprite": "green_rice",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 60,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 20,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 160,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 130,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "countDown": 60,
+              "AS": 0.005,
+              "ASV": 0.0005,
+              "sprite": "green_rice",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 60,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 20,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 160,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 130,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": -90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Crossroad Sign「Crossroads of Heaven」",
+          "danmaku": [
+            {
+              "sound": 0,
+              "countDown": 60,
+              "AS": 0.002,
+              "ASV": 0.0002,
+              "sprite": "white_ball",
+              "style": 1,
+              "radius": 0,
+              "layer": 8,
+              "layerOffset": 0,
+              "field": 340,
+              "amount": 16,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 350,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": 60,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 120,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 1,
+                      "duration": 15
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 2,
+                  "duration": 120
+                },
+                "deathrattle": [
+                  {
+                    "sound": 1,
+                    "sprite": "pink_ball",
+                    "style": 0,
+                    "radius": 0,
+                    "layer": 1,
+                    "layerOffset": 0,
+                    "field": 0,
+                    "amount": 1,
+                    "relative": true,
+                    "positionX": 0,
+                    "positionY": 0,
+                    "randomPositionX": 0,
+                    "randomPositionY": 0,
+                    "randomMemberPosition": 0,
+                    "aim": false,
+                    "direction": 180,
+                    "randomDirection": 30,
+                    "turnDirection": 0,
+                    "randomMemberDirection": 0,
+                    "speed": 1,
+                    "speedLast": 0,
+                    "randomSpeed": 0,
+                    "randomSpeedV": 0,
+                    "danmakuData": {
+                      "lifetime": -1,
+                      "force": {
+                        "countDown": 120,
+                        "actions": [
+                          {
+                            "x": 40,
+                            "y": 0,
+                            "countDown": 1,
+                            "duration": 180
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "countDown": 60,
+              "AS": 0.002,
+              "ASV": 0,
+              "sprite": "red_bubble",
+              "style": 1,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 30,
+              "field": 300,
+              "amount": 30,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 300,
+              "speedV": 0,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": true,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": -90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "Cork Sign「Mountain God Procession」",
+          "danmaku": [
+            {
+              "sound": 1,
+              "volume": 0.02,
+              "countDown": 0,
+              "AS": 0.0512,
+              "ASV": 0.001024,
+              "sprite": "blue_arrow",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 16,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": 0.072,
+              "directionA": 0,
+              "directionVV": 0.00144,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 90,
+              "speedV": 2,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 1,
+              "volume": 0.02,
+              "countDown": 0,
+              "AS": 0.0512,
+              "ASV": 0.001024,
+              "sprite": "blue_arrow",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 16,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": false,
+              "direction": 0,
+              "directionV": -0.072,
+              "directionA": 0,
+              "directionVV": -0.00144,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 90,
+              "speedV": 2,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": 90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            },
+            {
+              "sound": 0,
+              "volume": 0.05,
+              "countDown": 60,
+              "AS": 0.005,
+              "ASV": 0.0008,
+              "sprite": "green_rice",
+              "style": 0,
+              "radius": 0,
+              "layer": 1,
+              "layerOffset": 0,
+              "field": 0,
+              "amount": 64,
+              "amountV": 0,
+              "failChance": 0,
+              "failChanceV": 0,
+              "positionX": 320,
+              "positionY": 120,
+              "randomPositionX": 0,
+              "randomPositionY": 0,
+              "randomMemberPosition": 0,
+              "aim": true,
+              "direction": 0,
+              "directionV": 0,
+              "directionA": 0,
+              "randomDirection": 0,
+              "turnDirection": 0,
+              "randomMemberDirection": 0,
+              "randomMemberDirectionV": 0,
+              "speed": 60,
+              "speedV": 1.2,
+              "speedLast": 0,
+              "speedLastV": 0,
+              "randomSpeed": 0,
+              "randomSpeedV": 0,
+              "danmakuData": {
+                "lifetime": -1,
+                "bounce": {
+                  "amount": 0,
+                  "duration": 180,
+                  "wallMargin": 0,
+                  "top": true,
+                  "bottom": false,
+                  "left": true,
+                  "right": true
+                },
+                "gravity": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "countDown": 0,
+                      "duration": 0
+                    }
+                  ]
+                },
+                "force": {
+                  "countDown": 0,
+                  "actions": [
+                    {
+                      "x": -60,
+                      "y": -90,
+                      "countDown": 20,
+                      "duration": 100
+                    }
+                  ]
+                },
+                "friction": {
+                  "countDown": 0,
+                  "duration": 0
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 487,
+        "y": 40
+      },
+      "hiScore": "00000000",
+      "name": "Rekindled「The Embers of Love」",
+      "description": [
+        "Spellcard owner: Komeiji Koishi.",
+        "Original creator: ZUN.",
+        "Move with purpose or become trapped.",
+        "How romantic!"
+      ],
+      "danmaku": [
+        {
+          "countDown": 60,
+          "AS": 0.0025,
+          "ASV": 0,
+          "sprite": "red_heart",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 1,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 290,
+          "positionY": 170,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 100,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "invulnerable": true,
+            "lifetime": -1,
+            "bounce": {
+              "amount": -1,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            },
+            "spawn": [
+              {
+                "countDown": 1,
+                "interval": 8,
+                "relative": true,
+                "sprite": "red_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 0,
+                "randomDirection": 360,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 10,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": 60
+                }
+              },
+              {
+                "countDown": 1,
+                "interval": 8,
+                "relative": true,
+                "sprite": "blue_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 0,
+                "randomDirection": 360,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 10,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": 60
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.0025,
+          "ASV": 0,
+          "sprite": "red_heart",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 1,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 350,
+          "positionY": 170,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 100,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "invulnerable": true,
+            "lifetime": -1,
+            "bounce": {
+              "amount": -1,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            },
+            "spawn": [
+              {
+                "countDown": 1,
+                "interval": 8,
+                "relative": true,
+                "sprite": "red_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 0,
+                "randomDirection": 360,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 10,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": 60
+                }
+              },
+              {
+                "countDown": 1,
+                "interval": 8,
+                "relative": true,
+                "sprite": "blue_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 0,
+                "randomDirection": 360,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 10,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": 60
+                }
+              }
+            ]
+          }
+        },
+        {
+          "countDown": 260,
+          "AS": 0.0025,
+          "ASV": 0,
+          "sprite": "red_heart",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 1,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 290,
+          "positionY": 170,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": -60,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 100,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "invulnerable": true,
+            "lifetime": -1,
+            "bounce": {
+              "amount": -1,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            },
+            "spawn": [
+              {
+                "countDown": 1,
+                "interval": 8,
+                "relative": true,
+                "sprite": "red_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 0,
+                "randomDirection": 360,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 10,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": 60
+                }
+              },
+              {
+                "countDown": 1,
+                "interval": 8,
+                "relative": true,
+                "sprite": "blue_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 0,
+                "randomDirection": 360,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 10,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": 60
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sound": 1,
+          "countDown": 260,
+          "AS": 0.0025,
+          "ASV": 0,
+          "sprite": "red_heart",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 1,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 350,
+          "positionY": 170,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 60,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 100,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "invulnerable": true,
+            "lifetime": -1,
+            "bounce": {
+              "amount": -1,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            },
+            "spawn": [
+              {
+                "countDown": 1,
+                "interval": 8,
+                "relative": true,
+                "sprite": "red_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 0,
+                "randomDirection": 360,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 10,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": 60
+                }
+              },
+              {
+                "countDown": 1,
+                "interval": 8,
+                "relative": true,
+                "sprite": "blue_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 0,
+                "randomDirection": 360,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 10,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": 60
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 237,
+        "y": 88
+      },
+      "hiScore": "00000000",
+      "name": "Simple Danmaku for Cornering a Trapped Heart",
+      "description": [
+        "Spellcard owner: Komeiji Koishi.",
+        "You are forced to run around and desert me?",
+        "Can you dodge my inflation love?",
+        ""
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.005,
+          "ASV": 0,
+          "sprite": "red_heart",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 30,
+          "field": 0,
+          "amount": 1,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 240,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 100,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "invulnerable": true,
+            "lifetime": -1,
+            "bounce": {
+              "amount": -1,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": -90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 0,
+          "volume": 0.02,
+          "countDown": 60,
+          "AS": 0.05,
+          "ASV": 0.000003,
+          "sprite": "green_rice",
+          "style": 0,
+          "radius": 0,
+          "layer": 19,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 1,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 240,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 250,
+          "speedV": 0.015,
+          "speedLast": -100,
+          "speedLastV": -0.006,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 487,
+        "y": 88
+      },
+      "hiScore": "00000000",
+      "name": "Sinister Spirits「Double Black Death Butterfly」",
+      "description": [
+        "Spellcard owner: Yakumo Yukari.",
+        "Original creator: ZUN.",
+        "Heavy dodging, double rotation magic of major angle.",
+        "Depend on yourself."
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.001,
+          "ASV": 0.0000005,
+          "sprite": "red_butterfly",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 60,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 360,
+          "randomMemberDirectionV": 0,
+          "speed": 260,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 280,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 360,
+              "actions": [
+                {
+                  "x": 600,
+                  "y": 600,
+                  "countDown": 120,
+                  "duration": 1
+                },
+                {
+                  "x": 60,
+                  "y": 60,
+                  "countDown": 121,
+                  "duration": 120
+                },
+                {
+                  "x": 20,
+                  "y": 20,
+                  "countDown": 240,
+                  "duration": 120
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 2,
+              "duration": 120
+            }
+          }
+        },
+        {
+          "countDown": 60,
+          "AS": 0.001,
+          "ASV": 0.0000005,
+          "sprite": "blue_butterfly",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 60,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 360,
+          "randomMemberDirectionV": 0,
+          "speed": 260,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 280,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 360,
+              "actions": [
+                {
+                  "x": 600,
+                  "y": -600,
+                  "countDown": 120,
+                  "duration": 1
+                },
+                {
+                  "x": 60,
+                  "y": -60,
+                  "countDown": 121,
+                  "duration": 120
+                },
+                {
+                  "x": 20,
+                  "y": -20,
+                  "countDown": 240,
+                  "duration": 120
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 2,
+              "duration": 120
+            }
+          }
+        },
+        {
+          "sound": 1,
+          "countDown": 550,
+          "AS": 0.001,
+          "ASV": 0.0000005,
+          "sprite": "pink_knife",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 60,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 360,
+          "randomMemberDirectionV": 0,
+          "speed": 260,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 280,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 360,
+              "actions": [
+                {
+                  "x": 600,
+                  "y": 600,
+                  "countDown": 120,
+                  "duration": 1
+                },
+                {
+                  "x": 60,
+                  "y": 60,
+                  "countDown": 121,
+                  "duration": 120
+                },
+                {
+                  "x": 20,
+                  "y": 20,
+                  "countDown": 240,
+                  "duration": 120
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 2,
+              "duration": 120
+            }
+          }
+        },
+        {
+          "countDown": 550,
+          "AS": 0.001,
+          "ASV": 0.0000005,
+          "sprite": "cyan_knife",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 60,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 360,
+          "randomMemberDirectionV": 0,
+          "speed": 260,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 280,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 360,
+              "actions": [
+                {
+                  "x": 600,
+                  "y": -600,
+                  "countDown": 120,
+                  "duration": 1
+                },
+                {
+                  "x": 60,
+                  "y": -60,
+                  "countDown": 121,
+                  "duration": 120
+                },
+                {
+                  "x": 20,
+                  "y": -20,
+                  "countDown": 240,
+                  "duration": 120
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 2,
+              "duration": 120
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 237,
+        "y": 136
+      },
+      "hiScore": "00000000",
+      "name": "Border Sign「Boundary of Wave and Particle」",
+      "description": [
+        "Spellcard owner: Yakumo Yukari.",
+        "Original creator: ZUN.",
+        "This feels somewhat hypnotic.",
+        "Waves become particles, and then back to waves."
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "volume": 0.02,
+          "countDown": 30,
+          "AS": 1,
+          "ASV": 0,
+          "sprite": "purple_rice",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 4,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 5,
+          "directionV": 0,
+          "directionA": 0.2,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 80,
+          "speedV": 0.01,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 0,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "countDown": 30,
+          "AS": 0.05,
+          "ASV": 0.0001,
+          "sprite": "red_kunai",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 4,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 9,
+          "directionV": 0,
+          "directionA": 0.2,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 60,
+          "speedV": 0.0075,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 0,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "countDown": 10000,
+          "AS": -0.95,
+          "ASV": 0.0001,
+          "sprite": "orange_talisman",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 4,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 13,
+          "directionV": 0,
+          "directionA": 0.2,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 40,
+          "speedV": 0.005,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 0,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 487,
+        "y": 136
+      },
+      "hiScore": "00000000",
+      "name": "Border Sign「Boundary of Wave and Particle」- A",
+      "description": [
+        "Spellcard owner: Yakumo Yukari.",
+        "Her two shikigami help her in the attack.",
+        "Dodging bullets coming from three directions will definitely be tough.",
+        ""
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "volume": 0.02,
+          "countDown": 30,
+          "AS": 1,
+          "ASV": 0,
+          "sprite": "purple_kunai",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 2,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0.2,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 80,
+          "speedV": 0.0075,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 0,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "countDown": 30,
+          "AS": 0.15,
+          "ASV": 0.00003,
+          "sprite": "blue_kunai",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 2,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 160,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0.2,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 55,
+          "speedV": 0.005,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 0,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "countDown": 30,
+          "AS": 0.15,
+          "ASV": 0.00003,
+          "sprite": "orange_kunai",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 2,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 480,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0.2,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 55,
+          "speedV": 0.005,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 0,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 237,
+        "y": 184
+      },
+      "hiScore": "00000000",
+      "name": "Border Sign「Boundary of Wave and Particle」- B",
+      "description": [
+        "Spellcard owner: Yakumo Yukari.",
+        "Boundary of Wave and Particle and... uh... screen.",
+        "",
+        ""
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "volume": 0.02,
+          "countDown": 30,
+          "AS": 1,
+          "ASV": 0,
+          "sprite": "purple_kunai",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 3,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 10,
+          "directionV": 0,
+          "directionA": 0.2,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 80,
+          "speedV": 0.0075,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 0,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "countDown": 30,
+          "AS": 0.05,
+          "ASV": 0.00002,
+          "sprite": "red_talisman",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 3,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 10,
+          "directionV": 0,
+          "directionA": 0.2,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 55,
+          "speedV": 0.005,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 1,
+              "duration": 0,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 487,
+        "y": 184
+      },
+      "hiScore": "00000000",
+      "name": "Five Elements Sign「Philosopher's Stone」",
+      "description": [
+        "Spellcard owner: Patchouli Knowledge.",
+        "Original creator: ZUN.",
+        "The power of Fire, Water, Wood, Metal, and Earth combined.",
+        "This one-week magician is really giving it her all today."
+      ],
+      "danmaku": [
+        {
+          "sound": 0,
+          "countDown": 185,
+          "AS": 0.002,
+          "ASV": 0.000001,
+          "sprite": "blue_light",
+          "style": 0,
+          "radius": 0,
+          "layer": 5,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 16,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 170,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 9,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 250,
+          "speedV": 0,
+          "speedLast": 50,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.002,
+          "ASV": 0.000001,
+          "sprite": "black_knife",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 16,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 250,
+          "positionY": 80,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 180,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 50,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 190,
+              "actions": [
+                {
+                  "x": 30,
+                  "y": 60,
+                  "countDown": 1,
+                  "duration": 180
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.002,
+          "ASV": 0.000001,
+          "sprite": "black_knife",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 16,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 250,
+          "positionY": 80,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 180,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 50,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 190,
+              "actions": [
+                {
+                  "x": 30,
+                  "y": -60,
+                  "countDown": 1,
+                  "duration": 180
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 0,
+          "countDown": 372,
+          "AS": 0.002,
+          "ASV": 0.000001,
+          "sprite": "green_bean",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 30,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 390,
+          "positionY": 80,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 180,
+          "randomMemberDirectionV": 0,
+          "speed": 100,
+          "speedV": 0,
+          "speedLast": 50,
+          "speedLastV": 0,
+          "randomSpeed": 30,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 0,
+          "countDown": 435,
+          "AS": 0.002,
+          "ASV": 0.000001,
+          "sprite": "red_light",
+          "style": 0,
+          "radius": 0,
+          "layer": 3,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 20,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 470,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 150,
+          "speedV": 0,
+          "speedLast": 50,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 1,
+          "countDown": 310,
+          "AS": 0.002,
+          "ASV": 0.000001,
+          "sprite": "orange_ball",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 30,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 150,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 180,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 250,
+          "speedV": 0,
+          "speedLast": 50,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 170,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 120,
+                  "countDown": 100,
+                  "duration": 60
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 1,
+              "duration": 120
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 237,
+        "y": 232
+      },
+      "hiScore": "00000000",
+      "name": "Q.E.D.「Ripples of 495 Years」",
+      "description": [
+        "Spellcard owner: Flandre Scarlet.",
+        "Original creator: ZUN.",
+        "The pent-up frustrations of 495 years worth of imprisonment.",
+        "Q.E.D. is Quod Erat Demonstrandum"
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.003,
+          "ASV": 0.000003,
+          "sprite": "blue_rice",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 80,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 80,
+          "randomPositionX": 200,
+          "randomPositionY": 50,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 180,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 80,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 1,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 487,
+        "y": 232
+      },
+      "hiScore": "00000000",
+      "name": "Moriya shot",
+      "description": [
+        "Owner: Moriya Suwako",
+        "Original creator: ZUN.",
+        "This's not a spell card, but it's an interesting attack.",
+        "Just like the Q.E.D, but the pattern is completely readable"
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.003,
+          "ASV": 0.0000015,
+          "sprite": "red_talisman",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 50,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 70,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 1,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.003,
+          "ASV": 0.0000015,
+          "sprite": "blue_talisman",
+          "style": 0,
+          "radius": 0,
+          "layer": 2,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 50,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 80,
+          "speedV": 0,
+          "speedLast": 60,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 237,
+        "y": 280
+      },
+      "hiScore": "00000000",
+      "name": "Native God「Froggy Braves the Elements」",
+      "description": [
+        "Spellcard owner: Moriya Suwako.",
+        "Original creator: ZUN.",
+        "A weaving spray of water in a rainstorm.",
+        "With all these trajectories, this attack could be a Fountain of Math."
+      ],
+      "danmaku": [
+        {
+          "countDown": 60,
+          "AS": 0.025,
+          "ASV": 0.000015,
+          "sprite": "cyan_rice",
+          "style": 1,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 12,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 90,
+          "randomMemberDirectionV": 0,
+          "speed": 105,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 40,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 120,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 140,
+                  "countDown": 1,
+                  "duration": 40                  
+                },
+                {
+                  "x": 0,
+                  "y": 120,
+                  "countDown": 40,
+                  "duration": 80
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 1,
+          "volume": 0.02,
+          "countDown": 60,
+          "AS": 0.25,
+          "ASV": 0,
+          "sprite": "white_ball",
+          "style": 1,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 180,
+          "amount": 8,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 1,
+          "directionA": 0,
+          "directionSin": true,
+          "directionPhase": 0,
+          "directionInterval": 250,
+          "directionFoot": -30,
+          "directionCap": 30,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 150,
+          "speedV": 0,
+          "speedLast": -100,
+          "speedLastV": -0.02,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 130,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 125,
+                  "countDown": 1,
+                  "duration": 120
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 0,
+          "countDown": 60,
+          "AS": 0.001,
+          "ASV": 0,
+          "sprite": "green_bubble",
+          "style": 1,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 30,
+          "field": 200,
+          "amount": 25,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 300,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": -90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 487,
+        "y": 280
+      },
+      "hiScore": "00000000",
+      "name": "Scourge Sign「Mishaguji-sama」",
+      "description": [
+        "Spellcard owner: Moriya Suwako.",
+        "Original creator: ZUN.",
+        "A pattern from one of Suwako's outer world acquaintances.",
+        "The twisting pattern becomes more frantic as the festival closes."
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "countDown": 60,
+          "AS": 0.005,
+          "ASV": 0.000003,
+          "sprite": "green_rice",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 60,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 20,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 160,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 130,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "countDown": 60,
+          "AS": 0.005,
+          "ASV": 0.000003,
+          "sprite": "green_rice",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 60,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 20,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 160,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 130,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": -90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 237,
+        "y": 328
+      },
+      "hiScore": "00000000",
+      "name": "Crossroad Sign「Crossroads of Heaven」",
+      "description": [
+        "Spellcard owner: Shameimaru Aya.",
+        "Original creator: ZUN.",
+        "Twelve paths to heaven make for chaos at the junction.",
+        "Aya is indeed the center of attention."
+      ],
+      "danmaku": [
+        {
+          "sound": 0,
+          "countDown": 60,
+          "AS": 0.002,
+          "ASV": 0.000001,
+          "sprite": "white_ball",
+          "style": 1,
+          "radius": 0,
+          "layer": 8,
+          "layerOffset": 0,
+          "field": 340,
+          "amount": 16,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 350,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": 60,
+            "bounce": {
+              "amount": 0,
+              "duration": 120,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 1,
+                  "duration": 15
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 2,
+              "duration": 120
+            },
+            "deathrattle": [
+              {
+                "sound": 1,
+                "sprite": "pink_ball",
+                "style": 0,
+                "radius": 0,
+                "layer": 1,
+                "layerOffset": 0,
+                "field": 0,
+                "amount": 1,
+                "relative": true,
+                "positionX": 0,
+                "positionY": 0,
+                "randomPositionX": 0,
+                "randomPositionY": 0,
+                "randomMemberPosition": 0,
+                "aim": false,
+                "direction": 180,
+                "randomDirection": 30,
+                "turnDirection": 0,
+                "randomMemberDirection": 0,
+                "speed": 1,
+                "speedLast": 0,
+                "randomSpeed": 0,
+                "randomSpeedV": 0,
+                "danmakuData": {
+                  "lifetime": -1,
+                  "force": {
+                    "countDown": 120,
+                    "actions": [
+                      {
+                        "x": 40,
+                        "y": 0,
+                        "countDown": 1,
+                        "duration": 180
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "countDown": 60,
+          "AS": 0.001,
+          "ASV": 0,
+          "sprite": "red_bubble",
+          "style": 1,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 30,
+          "field": 300,
+          "amount": 30,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 300,
+          "speedV": 0,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": true,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": -90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "menuPosition": {
+        "x": 487,
+        "y": 328
+      },
+      "hiScore": "00000000",
+      "name": "Cork Sign「Mountain God Procession」",
+      "description": [
+        "Spellcard owner: Shameimaru Aya.",
+        "Original creator: ZUN.",
+        "Intersecting walls of bullets join expanding rings of cork.",
+        "Stay away from where all three meet."
+      ],
+      "danmaku": [
+        {
+          "sound": 1,
+          "volume": 0.02,
+          "countDown": 1,
+          "AS": 0.0512,
+          "ASV": 0.00000512,
+          "sprite": "blue_arrow",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 16,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": 0.072,
+          "directionA": 0.0000072,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 90,
+          "speedV": 0.009,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "countDown": 1,
+          "AS": 0.0512,
+          "ASV": 0.00000512,
+          "sprite": "blue_arrow",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 16,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": false,
+          "direction": 0,
+          "directionV": -0.072,
+          "directionA": -0.0000072,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 90,
+          "speedV": 0.009,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": 90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        },
+        {
+          "sound": 0,
+          "volume": 0.05,
+          "countDown": 60,
+          "AS": 0.005,
+          "ASV": 0.000004,
+          "sprite": "green_rice",
+          "style": 0,
+          "radius": 0,
+          "layer": 1,
+          "layerOffset": 0,
+          "field": 0,
+          "amount": 64,
+          "amountV": 0,
+          "failChance": 0,
+          "failChanceV": 0,
+          "positionX": 320,
+          "positionY": 120,
+          "randomPositionX": 0,
+          "randomPositionY": 0,
+          "randomMemberPosition": 0,
+          "aim": true,
+          "direction": 0,
+          "directionV": 0,
+          "directionA": 0,
+          "randomDirection": 0,
+          "turnDirection": 0,
+          "randomMemberDirection": 0,
+          "randomMemberDirectionV": 0,
+          "speed": 60,
+          "speedV": 0.006,
+          "speedLast": 0,
+          "speedLastV": 0,
+          "randomSpeed": 0,
+          "randomSpeedV": 0,
+          "danmakuData": {
+            "lifetime": -1,
+            "bounce": {
+              "amount": 0,
+              "duration": 180,
+              "wallMargin": 0,
+              "top": true,
+              "bottom": false,
+              "left": true,
+              "right": true
+            },
+            "gravity": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "countDown": 0,
+                  "duration": 0
+                }
+              ]
+            },
+            "force": {
+              "countDown": 0,
+              "actions": [
+                {
+                  "x": -60,
+                  "y": -90,
+                  "countDown": 20,
+                  "duration": 100
+                }
+              ]
+            },
+            "friction": {
+              "countDown": 0,
+              "duration": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
