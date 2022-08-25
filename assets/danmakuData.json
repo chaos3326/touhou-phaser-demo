@@ -704,16 +704,16 @@
             {
               "sound": 1,
               "countDown": 60,
-              "AS": 0.001,
-              "ASV": 0.00005,
+              "AS": 0.0016,
+              "ASV": 0.00002,
               "sprite": "red_butterfly",
               "style": 0,
               "radius": 0,
               "layer": 1,
               "layerOffset": 0,
               "field": 0,
-              "amount": 45,
-              "amountV": 0,
+              "amount": 36,
+              "amountV": 2,
               "failChance": 0,
               "failChanceV": 0,
               "positionX": 320,
@@ -729,11 +729,11 @@
               "turnDirection": 0,
               "randomMemberDirection": 360,
               "randomMemberDirectionV": 0,
-              "speed": 260,
+              "speed": 270,
               "speedV": 0,
               "speedLast": 0,
               "speedLastV": 0,
-              "randomSpeed": 280,
+              "randomSpeed": 300,
               "randomSpeedV": 0,
               "danmakuData": {
                 "lifetime": -1,
@@ -761,22 +761,22 @@
                   "countDown": 360,
                   "actions": [
                     {
-                      "x": 600,
-                      "y": 600,
+                      "x": 60,
+                      "y": 0,
                       "countDown": 120,
                       "duration": 1
                     },
                     {
                       "x": 60,
-                      "y": 60,
+                      "y": 20,
                       "countDown": 121,
-                      "duration": 120
+                      "duration": 30
                     },
                     {
-                      "x": 20,
-                      "y": 20,
-                      "countDown": 240,
-                      "duration": 120
+                      "x": 60,
+                      "y": 90,
+                      "countDown": 151,
+                      "duration": 200
                     }
                   ]
                 },
@@ -788,16 +788,16 @@
             },
             {
               "countDown": 60,
-              "AS": 0.001,
-              "ASV": 0.00005,
+              "AS": 0.0016,
+              "ASV": 0.00002,
               "sprite": "blue_butterfly",
               "style": 0,
               "radius": 0,
               "layer": 1,
               "layerOffset": 0,
               "field": 0,
-              "amount": 45,
-              "amountV": 0,
+              "amount": 36,
+              "amountV": 2,
               "failChance": 0,
               "failChanceV": 0,
               "positionX": 320,
@@ -813,11 +813,11 @@
               "turnDirection": 0,
               "randomMemberDirection": 360,
               "randomMemberDirectionV": 0,
-              "speed": 260,
+              "speed": 270,
               "speedV": 0,
               "speedLast": 0,
               "speedLastV": 0,
-              "randomSpeed": 280,
+              "randomSpeed": 300,
               "randomSpeedV": 0,
               "danmakuData": {
                 "lifetime": -1,
@@ -845,22 +845,22 @@
                   "countDown": 360,
                   "actions": [
                     {
-                      "x": 600,
-                      "y": -600,
+                      "x": 60,
+                      "y": 0,
                       "countDown": 120,
                       "duration": 1
                     },
                     {
                       "x": 60,
-                      "y": -60,
+                      "y": -20,
                       "countDown": 121,
-                      "duration": 120
+                      "duration": 30
                     },
                     {
-                      "x": 20,
-                      "y": -20,
-                      "countDown": 240,
-                      "duration": 120
+                      "x": 60,
+                      "y": -90,
+                      "countDown": 151,
+                      "duration": 200
                     }
                   ]
                 },
@@ -872,17 +872,17 @@
             },
             {
               "sound": 1,
-              "countDown": 550,
-              "AS": 0.001,
-              "ASV": 0.00005,
+              "countDown": 373,
+              "AS": 0.0016,
+              "ASV": 0.00002,
               "sprite": "pink_knife",
               "style": 0,
               "radius": 0,
               "layer": 1,
               "layerOffset": 0,
               "field": 0,
-              "amount": 45,
-              "amountV": 0,
+              "amount": 36,
+              "amountV": 2,
               "failChance": 0,
               "failChanceV": 0,
               "positionX": 320,
@@ -898,11 +898,11 @@
               "turnDirection": 0,
               "randomMemberDirection": 360,
               "randomMemberDirectionV": 0,
-              "speed": 260,
+              "speed": 270,
               "speedV": 0,
               "speedLast": 0,
               "speedLastV": 0,
-              "randomSpeed": 280,
+              "randomSpeed": 300,
               "randomSpeedV": 0,
               "danmakuData": {
                 "lifetime": -1,
@@ -930,22 +930,22 @@
                   "countDown": 360,
                   "actions": [
                     {
-                      "x": 600,
-                      "y": 600,
+                      "x": 60,
+                      "y": 0,
                       "countDown": 120,
                       "duration": 1
                     },
                     {
                       "x": 60,
-                      "y": 60,
+                      "y": 20,
                       "countDown": 121,
-                      "duration": 120
+                      "duration": 30
                     },
                     {
-                      "x": 20,
-                      "y": 20,
-                      "countDown": 240,
-                      "duration": 120
+                      "x": 60,
+                      "y": 90,
+                      "countDown": 151,
+                      "duration": 200
                     }
                   ]
                 },
@@ -956,17 +956,17 @@
               }
             },
             {
-              "countDown": 550,
-              "AS": 0.001,
-              "ASV": 0.00005,
+              "countDown": 373,
+              "AS": 0.0016,
+              "ASV": 0.00002,
               "sprite": "cyan_knife",
               "style": 0,
               "radius": 0,
               "layer": 1,
               "layerOffset": 0,
               "field": 0,
-              "amount": 45,
-              "amountV": 0,
+              "amount": 36,
+              "amountV": 2,
               "failChance": 0,
               "failChanceV": 0,
               "positionX": 320,
@@ -982,11 +982,11 @@
               "turnDirection": 0,
               "randomMemberDirection": 360,
               "randomMemberDirectionV": 0,
-              "speed": 260,
+              "speed": 270,
               "speedV": 0,
               "speedLast": 0,
               "speedLastV": 0,
-              "randomSpeed": 280,
+              "randomSpeed": 300,
               "randomSpeedV": 0,
               "danmakuData": {
                 "lifetime": -1,
@@ -1014,22 +1014,22 @@
                   "countDown": 360,
                   "actions": [
                     {
-                      "x": 600,
-                      "y": -600,
+                      "x": 60,
+                      "y": 0,
                       "countDown": 120,
                       "duration": 1
                     },
                     {
                       "x": 60,
-                      "y": -60,
+                      "y": -20,
                       "countDown": 121,
-                      "duration": 120
+                      "duration": 30
                     },
                     {
-                      "x": 20,
-                      "y": -20,
-                      "countDown": 240,
-                      "duration": 120
+                      "x": 60,
+                      "y": -90,
+                      "countDown": 151,
+                      "duration": 200
                     }
                   ]
                 },
@@ -2066,8 +2066,8 @@
                   "countDown": 0,
                   "actions": [
                     {
-                      "x": -60,
-                      "y": 90,
+                      "x": 0,
+                      "y": 0,
                       "countDown": 20,
                       "duration": 100
                     }
@@ -2075,7 +2075,7 @@
                 },
                 "friction": {
                   "countDown": 1,
-                  "duration": 120
+                  "duration": 85
                 }
               }
             }
@@ -3848,16 +3848,16 @@
         {
           "sound": 1,
           "countDown": 60,
-          "AS": 0.001,
-          "ASV": 0.0000005,
+          "AS": 0.0016,
+          "ASV": 0,
           "sprite": "red_butterfly",
           "style": 0,
           "radius": 0,
           "layer": 1,
           "layerOffset": 0,
           "field": 0,
-          "amount": 60,
-          "amountV": 0,
+          "amount": 40,
+          "amountV": 0.0064,
           "failChance": 0,
           "failChanceV": 0,
           "positionX": 320,
@@ -3873,11 +3873,11 @@
           "turnDirection": 0,
           "randomMemberDirection": 360,
           "randomMemberDirectionV": 0,
-          "speed": 260,
+          "speed": 270,
           "speedV": 0,
           "speedLast": 0,
           "speedLastV": 0,
-          "randomSpeed": 280,
+          "randomSpeed": 300,
           "randomSpeedV": 0,
           "danmakuData": {
             "lifetime": -1,
@@ -3902,25 +3902,25 @@
               ]
             },
             "force": {
-              "countDown": 360,
+              "countDown": 480,
               "actions": [
                 {
-                  "x": 600,
-                  "y": 600,
+                  "x": 60,
+                  "y": 0,
                   "countDown": 120,
                   "duration": 1
                 },
                 {
                   "x": 60,
-                  "y": 60,
+                  "y": 20,
                   "countDown": 121,
-                  "duration": 120
+                  "duration": 30
                 },
                 {
-                  "x": 20,
-                  "y": 20,
-                  "countDown": 240,
-                  "duration": 120
+                  "x": 60,
+                  "y": 90,
+                  "countDown": 151,
+                  "duration": 200
                 }
               ]
             },
@@ -3932,16 +3932,16 @@
         },
         {
           "countDown": 60,
-          "AS": 0.001,
-          "ASV": 0.0000005,
+          "AS": 0.0016,
+          "ASV": 0,
           "sprite": "blue_butterfly",
           "style": 0,
           "radius": 0,
           "layer": 1,
           "layerOffset": 0,
           "field": 0,
-          "amount": 60,
-          "amountV": 0,
+          "amount": 40,
+          "amountV": 0.0064,
           "failChance": 0,
           "failChanceV": 0,
           "positionX": 320,
@@ -3957,11 +3957,11 @@
           "turnDirection": 0,
           "randomMemberDirection": 360,
           "randomMemberDirectionV": 0,
-          "speed": 260,
+          "speed": 270,
           "speedV": 0,
           "speedLast": 0,
           "speedLastV": 0,
-          "randomSpeed": 280,
+          "randomSpeed": 300,
           "randomSpeedV": 0,
           "danmakuData": {
             "lifetime": -1,
@@ -3989,22 +3989,22 @@
               "countDown": 360,
               "actions": [
                 {
-                  "x": 600,
-                  "y": -600,
+                  "x": 60,
+                  "y": 0,
                   "countDown": 120,
                   "duration": 1
                 },
                 {
                   "x": 60,
-                  "y": -60,
+                  "y": -20,
                   "countDown": 121,
-                  "duration": 120
+                  "duration": 30
                 },
                 {
-                  "x": 20,
-                  "y": -20,
-                  "countDown": 240,
-                  "duration": 120
+                  "x": 60,
+                  "y": -90,
+                  "countDown": 151,
+                  "duration": 200
                 }
               ]
             },
@@ -4016,17 +4016,17 @@
         },
         {
           "sound": 1,
-          "countDown": 550,
-          "AS": 0.001,
-          "ASV": 0.0000005,
+          "countDown": 373,
+          "AS": 0.0016,
+          "ASV": 0,
           "sprite": "pink_knife",
           "style": 0,
           "radius": 0,
           "layer": 1,
           "layerOffset": 0,
           "field": 0,
-          "amount": 60,
-          "amountV": 0,
+          "amount": 40,
+          "amountV": 0.0064,
           "failChance": 0,
           "failChanceV": 0,
           "positionX": 320,
@@ -4042,11 +4042,11 @@
           "turnDirection": 0,
           "randomMemberDirection": 360,
           "randomMemberDirectionV": 0,
-          "speed": 260,
+          "speed": 270,
           "speedV": 0,
           "speedLast": 0,
           "speedLastV": 0,
-          "randomSpeed": 280,
+          "randomSpeed": 300,
           "randomSpeedV": 0,
           "danmakuData": {
             "lifetime": -1,
@@ -4074,22 +4074,22 @@
               "countDown": 360,
               "actions": [
                 {
-                  "x": 600,
-                  "y": 600,
+                  "x": 60,
+                  "y": 0,
                   "countDown": 120,
                   "duration": 1
                 },
                 {
                   "x": 60,
-                  "y": 60,
+                  "y": 20,
                   "countDown": 121,
-                  "duration": 120
+                  "duration": 30
                 },
                 {
-                  "x": 20,
-                  "y": 20,
-                  "countDown": 240,
-                  "duration": 120
+                  "x": 60,
+                  "y": 90,
+                  "countDown": 151,
+                  "duration": 200
                 }
               ]
             },
@@ -4100,17 +4100,17 @@
           }
         },
         {
-          "countDown": 550,
-          "AS": 0.001,
-          "ASV": 0.0000005,
+          "countDown": 373,
+          "AS": 0.0016,
+          "ASV": 0,
           "sprite": "cyan_knife",
           "style": 0,
           "radius": 0,
           "layer": 1,
           "layerOffset": 0,
           "field": 0,
-          "amount": 60,
-          "amountV": 0,
+          "amount": 40,
+          "amountV": 0.0064,
           "failChance": 0,
           "failChanceV": 0,
           "positionX": 320,
@@ -4126,11 +4126,11 @@
           "turnDirection": 0,
           "randomMemberDirection": 360,
           "randomMemberDirectionV": 0,
-          "speed": 260,
+          "speed": 270,
           "speedV": 0,
           "speedLast": 0,
           "speedLastV": 0,
-          "randomSpeed": 280,
+          "randomSpeed": 300,
           "randomSpeedV": 0,
           "danmakuData": {
             "lifetime": -1,
@@ -4158,22 +4158,22 @@
               "countDown": 360,
               "actions": [
                 {
-                  "x": 600,
-                  "y": -600,
+                  "x": 60,
+                  "y": 0,
                   "countDown": 120,
                   "duration": 1
                 },
                 {
                   "x": 60,
-                  "y": -60,
+                  "y": -20,
                   "countDown": 121,
-                  "duration": 120
+                  "duration": 30
                 },
                 {
-                  "x": 20,
-                  "y": -20,
-                  "countDown": 240,
-                  "duration": 120
+                  "x": 60,
+                  "y": -90,
+                  "countDown": 151,
+                  "duration": 200
                 }
               ]
             },
@@ -5254,8 +5254,8 @@
               "countDown": 0,
               "actions": [
                 {
-                  "x": -60,
-                  "y": 90,
+                  "x": 0,
+                  "y": 0,
                   "countDown": 20,
                   "duration": 100
                 }
@@ -5263,7 +5263,7 @@
             },
             "friction": {
               "countDown": 1,
-              "duration": 120
+              "duration": 85
             }
           }
         }
